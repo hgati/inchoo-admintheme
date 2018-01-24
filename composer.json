@@ -1,12 +1,23 @@
 {
   "name": "hgati/inchoo-admintheme",
+
   "description":"Composer installer for Magento modules",
+
   "keywords":[ "composer-installer", "magento admin theme", "inchoo admin theme" ],
+
   "homepage":"https://github.com/hgati/inchoo-admintheme",
+
   "type": "magento-module",
+
   "license":"OSL-3.0",
+
   "description": "Inchoo_Admintheme's Composer Installer Version",
+
   "authors":[
     { "name":"hgati", "email":"cobays@gmail.com" }
-  ]
+  ],
+
+  "require": {
+    "magento-hackathon/magento-composer-installer": "3.1.2"
+  }
 }
