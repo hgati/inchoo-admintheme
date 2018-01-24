@@ -2,7 +2,7 @@
 	"name": "hgati/inchoo-admintheme",
 	"type": "magento-module",
 	"license":"OSL-3.0",
-	"description": "fork Inchoo_Admintheme",
+	"description": "Inchoo_Admintheme's Composer Installer Version",
 	"authors":[
         {
             "name":"hgati",
